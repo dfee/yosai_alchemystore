@@ -20,7 +20,7 @@ under the License.
 """
 models.py features a basic, non-hierarchical, non-constrained RBAC data model,
 also known as a flat model
--- Ref:  http://csrc.nist.gov/rbac/sandhu-ferraiolo-kuhn-00.pdf
+-- Ref:  http://csrc.nist.gov/staff/Kuhn/towards-std.pdf
 
 +-----------------+          +-------------------+          +---------------+
 |                 |          |                   |          |               |
